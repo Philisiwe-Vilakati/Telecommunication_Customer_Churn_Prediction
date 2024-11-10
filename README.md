@@ -19,4 +19,4 @@ This project aims to predict customer churn in the telecommunications industry u
 - Run the Jupyter Notebook or Python scripts to preprocess the data, train the models, and evaluate the results.
 
 ## Repository Structure
-- [dataset/:](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- [dataset/:Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
